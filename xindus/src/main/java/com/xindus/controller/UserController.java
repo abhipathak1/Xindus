@@ -23,9 +23,6 @@ import com.xindus.utils.JwtResponse;
 public class UserController {
 	
 	@Autowired
-    private WishlistItemRepository wishlistItemRepository;
-
-	@Autowired
 	private JwtHelper jwtHelper;
 
 	@Autowired
