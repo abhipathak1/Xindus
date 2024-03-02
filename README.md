@@ -14,7 +14,6 @@ Xindus is a backend application for managing wishlists. It provides APIs for use
 - Spring Boot
 - Spring Security
 - Spring Data JPA
-- Hibernate
 - MySQL
 
 ## Getting Started
